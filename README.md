@@ -10,6 +10,8 @@ Basic data manipulation was done in python, graphing was done in Tableau.
 
 ![Graph of Yearly Sales](https://github.com/Alexander-Kahanek/Videogame_Analysis/blob/main/sales_by_year.png)
 
+The top selling platforms in this graph is actually the top selling platforms that for games created and sold on. It does not represent actual platform sales.
+
 ## Sales by genre
 
 ![Graph of Genre Sales](https://github.com/Alexander-Kahanek/Videogame_Analysis/blob/main/sales_by_genre.png)
