@@ -2,7 +2,7 @@
 
 This repository holds a simple analysis done on the Kaggle dataset https://www.kaggle.com/gregorut/videogamesales
 
-Basic data manipulation was done in python, graphing was done in Tableau.
+Basic data manipulation was done in python, graphing was done in Tableau. 
 
 # Analysis
 
